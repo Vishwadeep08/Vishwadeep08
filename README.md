@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **technology stuffs**
 
-- 📫 How to reach me **vishwadeep.almore@gmail.com**
+- 📫 How to reach me - [![Gmail Badge](https://img.shields.io/badge/-vishwadeep.almore@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwadeep.almore@gmail.com)](mailto:vishwadeep.almore@gmail.com)
 
 - ⚡ Fun fact **I'm a Singer and Dancer too.**
 
