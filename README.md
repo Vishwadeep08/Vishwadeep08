@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vishwadeep.almore@gmail.com**
 
-- ⚡ Fun fact **I'm a Guitarist and Dancer too.**
+- ⚡ Fun fact **I'm a Singer and Dancer too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
