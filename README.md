@@ -22,8 +22,22 @@
 
 - ⚡ Fun fact **I'm a Singer and Dancer too.**
 
+
+<h3 align="left">I'm interested in:</h3>
+<p align="left">
+ 
+ - **Web Development**
+ 
+ - **ML,NLP and AI**
+ 
+ - **Open Source**
+ 
+ - **Blockchain**
+ 
+ <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
 <a href="https://twitter.com/vishwadeepalmo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwadeepalmo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishwadeep almore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwadeep almore" height="30" width="40" /></a>
 <a href="https://instagram.com/vishwadeep_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwadeep_14" height="30" width="40" /></a>
