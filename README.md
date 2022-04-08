@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Vishwadeep Almore 👋</h1>
+<h1 align="center">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">Currently a Sophomore in BIT Durg</h3>
 <br></br>
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2170220/screenshots/4535264/labor_day.gif" width="450" height="350" />
@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 <br></br>
 <img src="https://activity-graph.herokuapp.com/graph?username=vishwadeep08&bg_color=58A6FF&color=000000&line=FFFFFF&point=27346F">
 
- 
