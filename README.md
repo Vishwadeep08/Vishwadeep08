@@ -1,8 +1,6 @@
 <h1 align="center">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">Currently a Sophomore in BIT Durg</h3>
 <br></br>
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2170220/screenshots/4535264/labor_day.gif" width="450" height="350" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwadeep08&label=Profile%20views&color=0e75b6&style=flat" alt="vishwadeep08" /> </p>
 
