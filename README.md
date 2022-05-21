@@ -1,5 +1,5 @@
-<h1 align="center">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">Currently a Sophomore in BIT Durg</h3>
+<h1 align="left">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h3 align="left">Currently a Sophomore in BIT Durg</h3>
 <br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwadeep08&label=Profile%20views&color=0e75b6&style=flat" alt="vishwadeep08" /> </p>
