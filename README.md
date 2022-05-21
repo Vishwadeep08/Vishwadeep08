@@ -1,12 +1,7 @@
 <h1 align="left">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="left">Currently a Sophomore in BIT Durg</h3>
-<br></br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwadeep08&label=Profile%20views&color=0e75b6&style=flat" alt="vishwadeep08" /> </p>
-
-<a href="https://www.github.com/Vishwadeep08" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vishwadeep08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <a href="https://twitter.com/vishwadeepalmo1" target="blank"><img src="https://img.shields.io/twitter/follow/vishwadeepalmo1?logo=twitter&style=for-the-badge" alt="vishwadeepalmo1" /></a> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ML and NLP.**
