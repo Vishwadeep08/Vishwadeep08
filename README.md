@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 - 🧠  I’m currently learning **Python, C++ and MERN Stack.**
 
-- 👯 I’m looking to collaborate on **Twitter Spaces.**
+- 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 🤝 I’m looking for help with **websites**
+- 🤝 I’m looking for help **in finding internship opportunities**
 
 - 💬 Ask me about **technology stuffs**
 
