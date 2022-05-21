@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ML and NLP.**
 
-- 🧠  I’m currently learning **Python and C++.**
+- 🧠  I’m currently learning **Python, C++ and Web Development.**
 
 - 👯 I’m looking to collaborate on **Twitter Spaces.**
 
