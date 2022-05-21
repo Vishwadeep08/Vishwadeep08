@@ -1,8 +1,7 @@
 <h1 align="left">Hii, I'm Vishwadeep Almore <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="left">Currently a Sophomore in BIT Durg</h3>
 <br>
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on **ML and NLP.**
 
