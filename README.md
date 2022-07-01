@@ -50,9 +50,5 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <br></br>
 <br></br>
 <br></br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwadeep08&">
-<br></br>
-<br></br>
 <img src="https://activity-graph.herokuapp.com/graph?username=vishwadeep08&bg_color=58A6FF&color=000000&line=FFFFFF&point=27346F">
 
