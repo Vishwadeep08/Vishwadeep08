@@ -1,4 +1,4 @@
-<h1 align="left">Hii, I'm Vishwadeep Almore </h1>
+<h1 align="left">Hii there, I'm Vishwadeep Almore </h1>
 <br>
 
 **Here are some ideas to get you started:**
