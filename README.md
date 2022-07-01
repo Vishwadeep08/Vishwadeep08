@@ -15,7 +15,6 @@
 
 - 📫 How to reach me - [![Gmail Badge](https://img.shields.io/badge/-vishwadeep.almore@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwadeep.almore@gmail.com)](mailto:vishwadeep.almore@gmail.com)
 
-- ⚡ Fun fact **I'm a Singer and Dancer too.**
 
 
 <h3 align="left">I'm interested in:</h3>
