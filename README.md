@@ -1,4 +1,4 @@
-<h1 align="left">Hii there! I'm Vishwadeep Almore </h1>
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Vishwadeep!
 <br>
 
 **Here are some ideas to get you started:**
