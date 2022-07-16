@@ -3,9 +3,9 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on **ML and NLP.**
+- 🔭 I’m currently working on **Python, C++ and MERN Stack Projects.**
 
-- 🧠  I’m currently learning **Python, C++ and MERN Stack.**
+- 🧠  I’m currently learning **Machine Learning, DeepLearning and NLP.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
