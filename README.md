@@ -37,8 +37,6 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <a href="https://twitter.com/vishwadeepalmo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwadeepalmo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishwadeep almore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwadeep almore" height="30" width="40" /></a>
 <a href="https://instagram.com/vishwadeep_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwadeep_14" height="30" width="40" /></a>
-
-[![Gmail Badge](https://img.shields.io/badge/vishwadeep.almore@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:vishwadeep.almore@gmail.com)](mailto:vishwadeep.almore@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
