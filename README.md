@@ -3,7 +3,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on **Python, C++ and MERN Stack Projects.**
+- 🔭 I’m currently working on **Python, C++ and Full-Stack Projects.**
 
 - 🧠  I’m currently learning **Machine Learning, DeepLearning and NLP.**
 
