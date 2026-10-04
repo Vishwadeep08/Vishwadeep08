@@ -9,7 +9,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 🤝 I’m looking for help **in finding internship opportunities**
+- 🤝 I’m looking for help **in finding fulltime opportunities**
 
 - 💬 Ask me about **technology stuffs**
 
@@ -26,8 +26,6 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
  - **ML,NLP and AI**
  
  - **Open Source**
- 
- - **Blockchain**
  
  <br>
 <h3 align="left">Connect with me:</h3>
