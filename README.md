@@ -15,8 +15,6 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 - 📫 How to reach me - [![Gmail Badge](https://img.shields.io/badge/-vishwadeep.almore@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwadeep.almore@gmail.com)](mailto:vishwadeep.almore@gmail.com)
 
-![snake gif](https://github.com/amangoel185/amangoel185/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">I'm interested in:</h3>
 <p align="left">
